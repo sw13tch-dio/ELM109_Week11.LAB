@@ -54,7 +54,7 @@ o	Verify the code to check for errors.
 o	Upload the code.
 2.	Running the Experiment:
 o	Once the code is uploaded, the LCD should display the message "Ready to slide!" in the center of the screen.
-o	Tilt the breadboard or Arduino gently to activate the tilt switch.
+o	Tilt the switch gently towards an upright position to activate the tilt switch.
 o	Observe the text as it "falls" to the right across the screen in response to the tilt.
 o	When you return the device to its stable position, the text should smoothly "fall" back to its original position on the left.
 3.	Observations:
