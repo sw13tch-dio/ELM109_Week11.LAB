@@ -5,6 +5,7 @@ ELM-109 Tech Programming 								             Week 11
 LAB – TEXT ANIMATION WITH TILT CONTROL
 “FALLING TEXT”
 Interactive LCD Animation Using a Tilt Switch
+
 Equipment:
 •	1 x Breadboard
 •	1 x Arduino UNO R3
