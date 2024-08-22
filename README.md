@@ -10,8 +10,8 @@ Equipment:
 •	1 x Breadboard
 •	1 x Arduino UNO R3
 •	1 x USB Type-B to USB cable (for programming and power)
-•	7 x Male to Male Jumper Wires
-•	5 x Male to Female Jumper Wires
+•	Male to Male Jumper Wires
+•	Male to Female Jumper Wires
 •	1 x 16x2 LCD Display
 •	1 x 10kΩ Potentiometer
 •	1 x Tilt Switch
